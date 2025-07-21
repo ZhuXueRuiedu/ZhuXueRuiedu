@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm going to play basketball
 <!--
 **ZhuXueRuiedu/ZhuXueRuiedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
